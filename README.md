@@ -204,5 +204,10 @@ npm run dev
 
 ---
 
+​Copyright © 2025 CP'S Enterprise Tech Selection, Inc. All rights reserved.
+Developed & Maintained by Mr. Ahmed Hajjaj Official / (Mr. Hajjaj/Mr. Ahmed).
+Designed in Egypt | Engineered for Global Excellence.
+GIVE™, CP'S Business™, and CP'S Cloud Console™ are registered trademarks of CP'S Enterprise Tech Selection, Inc.
+
 © 2025 RockDeals. Ahmed Hajjaj official جميع الحقوق محفوظة.
 
