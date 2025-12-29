@@ -1,0 +1,22 @@
+# environment.yml for RockDeals-POS-System (create or edit as needed)
+# Edit dependencies below to match project requirements
+name: rockdeals-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - flake8
+  - pytest
+  - pandas
+  - numpy
+  - sqlalchemy
+  - pip:
+    - requests
+    - gunicorn
+# If you maintain a requirements.txt, uncomment the following and/or adjust pip entries:
+#    - -r requirements.txt
+# Notes:
+# - This environment.yml is intended for GitHub Actions CI (see .github/workflows/python-package-conda.yml).
+# - Adjust package list to match project's actual dependencies as documented in the repository README: https://github.com/ahmedhajjajofficialworkspace-cloud/RockDeals-POS-System
